@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Surefire suite" duration-ms="682714" started-at="2018-05-08T10:13:35Z" finished-at="2018-05-08T10:24:58Z">
+    <groups>
+    </groups>
+    <test name="Surefire test" duration-ms="682714" started-at="2018-05-08T10:13:35Z" finished-at="2018-05-08T10:24:58Z">
+      <class name="runner.KDETest">
+        <test-method status="PASS" signature="beforeSuite()[pri:0, instance:runner.KDETest@64616ca2]" name="beforeSuite" is-config="true" duration-ms="14180" started-at="2018-05-08T10:13:21Z" finished-at="2018-05-08T10:13:35Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeSuite -->
+        <test-method status="PASS" signature="beforeTest()[pri:0, instance:runner.KDETest@64616ca2]" name="beforeTest" is-config="true" duration-ms="1" started-at="2018-05-08T10:13:35Z" finished-at="2018-05-08T10:13:35Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeTest -->
+        <test-method status="PASS" signature="beforeClass()[pri:0, instance:runner.KDETest@64616ca2]" name="beforeClass" is-config="true" duration-ms="0" started-at="2018-05-08T10:13:35Z" finished-at="2018-05-08T10:13:35Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeClass -->
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:runner.KDETest@64616ca2]" name="beforeMethod" is-config="true" duration-ms="0" started-at="2018-05-08T10:13:35Z" finished-at="2018-05-08T10:13:35Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="ff()[pri:0, instance:runner.KDETest@64616ca2]" name="ff" duration-ms="682690" started-at="2018-05-08T10:13:35Z" finished-at="2018-05-08T10:24:58Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ff -->
+        <test-method status="PASS" signature="afterMethod()[pri:0, instance:runner.KDETest@64616ca2]" name="afterMethod" is-config="true" duration-ms="2" started-at="2018-05-08T10:24:58Z" finished-at="2018-05-08T10:24:58Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method status="PASS" signature="afterClass()[pri:0, instance:runner.KDETest@64616ca2]" name="afterClass" is-config="true" duration-ms="0" started-at="2018-05-08T10:24:58Z" finished-at="2018-05-08T10:24:58Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterClass -->
+        <test-method status="PASS" signature="afterTest()[pri:0, instance:runner.KDETest@64616ca2]" name="afterTest" is-config="true" duration-ms="0" started-at="2018-05-08T10:24:58Z" finished-at="2018-05-08T10:24:58Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterTest -->
+        <test-method status="PASS" signature="afterSuite()[pri:0, instance:runner.KDETest@64616ca2]" name="afterSuite" is-config="true" duration-ms="3002" started-at="2018-05-08T10:24:58Z" finished-at="2018-05-08T10:25:01Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterSuite -->
+      </class> <!-- runner.KDETest -->
+    </test> <!-- Surefire test -->
+  </suite> <!-- Surefire suite -->
+</testng-results>
